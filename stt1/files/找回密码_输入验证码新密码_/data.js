@@ -1,0 +1,583 @@
+﻿$axure.loadCurrentPage({
+  "url":"找回密码_输入验证码新密码_.html",
+  "generationDate":new Date(1431620934852.54),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"9b803d4bcaa7465e88ebc62ba76e4269",
+    "type":"Axure:Page",
+    "name":"找回密码(输入验证码新密码)",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"c16a7a58b3e241ed945fcfa5e867432c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "location":{
+              "x":1,
+              "y":3},
+            "size":{
+              "width":467,
+              "height":830},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFE4E4E4}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"af82be2b48a44dd391b71e9544f41f01",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "location":{
+                  "x":1,
+                  "y":3},
+                "size":{
+                  "width":467,
+                  "height":830},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFE4E4E4}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/首页/u1023.png"}},
+{
+          "id":"ada7573d064c4ea3a9cf945d7a035587",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"28px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF797979},
+            "location":{
+              "x":0,
+              "y":30},
+            "size":{
+              "width":469,
+              "height":69},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"dc4dde176ebe480f98e7bdba24a6b560",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"28px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF797979},
+                "location":{
+                  "x":0,
+                  "y":30},
+                "size":{
+                  "width":469,
+                  "height":69},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/注册/u2.png"}},
+{
+          "id":"09f10d6643f54da3b13da6712c29ece3",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF434343},
+            "size":{
+              "width":469,
+              "height":32},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"24f19f3f6e3949d989465d327fc2d15d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF434343},
+                "size":{
+                  "width":469,
+                  "height":32},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/注册/u4.png"}},
+{
+          "id":"b4dbd7185bf5477d9f150a9f768eb90f",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":20,
+              "y":48},
+            "size":{
+              "width":32,
+              "height":32}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"635af9e3ff864b6f838bfd605db06b48",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":20,
+                  "y":48},
+                "size":{
+                  "width":32,
+                  "height":32}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/首页/u1213.png"}},
+{
+          "id":"1edf8730719a4c56acb756ca6fc3018a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":1,
+              "y":133},
+            "size":{
+              "width":468,
+              "height":120},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFE4E4E4}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"274d47cb947a4daf8c63f33e933c6eb5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":1,
+                  "y":133},
+                "size":{
+                  "width":468,
+                  "height":120},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFE4E4E4}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/登录/u8.png"}},
+{
+          "id":"b79b476b64d34b15a1395a2cac549e56",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"18px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFC9C9C9,
+              "opacity":1},
+            "location":{
+              "x":29,
+              "y":153},
+            "size":{
+              "width":109,
+              "height":23}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a3a82c433d7a4a79860b32b412747fe5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"18px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFC9C9C9,
+                  "opacity":1},
+                "location":{
+                  "x":29,
+                  "y":153},
+                "size":{
+                  "width":109,
+                  "height":23}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"ce2fccf73c8649c39b0a99b1090038f7",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":23,
+              "y":187},
+            "size":{
+              "width":446,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFE4E4E4}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/注册/u12_line.png"}},
+{
+          "id":"27a9e1409c974cadb63f2069a5a3f05f",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"18px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFD7D7D7,
+              "opacity":1},
+            "location":{
+              "x":29,
+              "y":211},
+            "size":{
+              "width":171,
+              "height":23}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"79176ac0942b4e799b098598911cffe2",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"18px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFD7D7D7,
+                  "opacity":1},
+                "location":{
+                  "x":29,
+                  "y":211},
+                "size":{
+                  "width":171,
+                  "height":23}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"f72813ce5e4a49be94941841ee427acf",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"18px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF949494},
+            "location":{
+              "x":15,
+              "y":284},
+            "size":{
+              "width":440,
+              "height":57}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6cb8fa20833d40c0a6522f2b491a7d8f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"18px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF949494},
+                "location":{
+                  "x":15,
+                  "y":284},
+                "size":{
+                  "width":440,
+                  "height":57}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 登录",
+                      "target":{
+                        "targetType":"page",
+                        "url":"登录.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/注册/u17.png"}},
+{
+          "id":"cbc736365bd9484890d524dc4542ed89",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"18px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC,
+              "opacity":1},
+            "location":{
+              "x":128,
+              "y":383},
+            "size":{
+              "width":217,
+              "height":23}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"394d6bd9230448b39ebe09e86df27620",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"18px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC,
+                  "opacity":1},
+                "location":{
+                  "x":128,
+                  "y":383},
+                "size":{
+                  "width":217,
+                  "height":23}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"d9b64da3f3fb406fb60356407f0c741a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC},
+            "location":{
+              "x":365,
+              "y":141},
+            "size":{
+              "width":95,
+              "height":44},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ab7ef13e447343478b2244e3ef6bb68a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC},
+                "location":{
+                  "x":365,
+                  "y":141},
+                "size":{
+                  "width":95,
+                  "height":44},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/注册/u19.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "c16a7a58b3e241ed945fcfa5e867432c":{
+      "scriptId":"u0"},
+    "af82be2b48a44dd391b71e9544f41f01":{
+      "scriptId":"u1"},
+    "ada7573d064c4ea3a9cf945d7a035587":{
+      "scriptId":"u2"},
+    "dc4dde176ebe480f98e7bdba24a6b560":{
+      "scriptId":"u3"},
+    "09f10d6643f54da3b13da6712c29ece3":{
+      "scriptId":"u4"},
+    "24f19f3f6e3949d989465d327fc2d15d":{
+      "scriptId":"u5"},
+    "b4dbd7185bf5477d9f150a9f768eb90f":{
+      "scriptId":"u6"},
+    "635af9e3ff864b6f838bfd605db06b48":{
+      "scriptId":"u7"},
+    "1edf8730719a4c56acb756ca6fc3018a":{
+      "scriptId":"u8"},
+    "274d47cb947a4daf8c63f33e933c6eb5":{
+      "scriptId":"u9"},
+    "b79b476b64d34b15a1395a2cac549e56":{
+      "scriptId":"u10"},
+    "a3a82c433d7a4a79860b32b412747fe5":{
+      "scriptId":"u11"},
+    "ce2fccf73c8649c39b0a99b1090038f7":{
+      "scriptId":"u12"},
+    "27a9e1409c974cadb63f2069a5a3f05f":{
+      "scriptId":"u13"},
+    "79176ac0942b4e799b098598911cffe2":{
+      "scriptId":"u14"},
+    "f72813ce5e4a49be94941841ee427acf":{
+      "scriptId":"u15"},
+    "6cb8fa20833d40c0a6522f2b491a7d8f":{
+      "scriptId":"u16"},
+    "cbc736365bd9484890d524dc4542ed89":{
+      "scriptId":"u17"},
+    "394d6bd9230448b39ebe09e86df27620":{
+      "scriptId":"u18"},
+    "d9b64da3f3fb406fb60356407f0c741a":{
+      "scriptId":"u19"},
+    "ab7ef13e447343478b2244e3ef6bb68a":{
+      "scriptId":"u20"}}});

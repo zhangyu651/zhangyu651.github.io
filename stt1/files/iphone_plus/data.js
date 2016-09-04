@@ -1,0 +1,225 @@
+﻿$axure.loadCurrentPage({
+  "url":"iphone_plus.html",
+  "generationDate":new Date(1431621365310.16),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"8ff8397ec5a342d191c6e2569397e76d",
+    "type":"Axure:Page",
+    "name":"iPhone Plus",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"a8f2c09a668e47feb14804c6cdd0b60f",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":122,
+              "y":20},
+            "size":{
+              "width":578,
+              "height":1111}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"096057de972944bf9a4993aa9dc199a0",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":122,
+                  "y":20},
+                "size":{
+                  "width":578,
+                  "height":1111}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/iphone_plus/u0.png"}},
+{
+          "id":"6c15fd493187430c89898877c094c537",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF000000},
+            "location":{
+              "x":176,
+              "y":158},
+            "size":{
+              "width":470,
+              "height":833},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f6d6823313764f83ba2221c657249675",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF000000},
+                "location":{
+                  "x":176,
+                  "y":158},
+                "size":{
+                  "width":470,
+                  "height":833},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/iphone_plus/u2.png"}},
+{
+          "id":"7810b1692e604f02a08eb9dac11283bb",
+          "label":"屏幕框架",
+          "type":"inlineFrame",
+          "styleType":"inlineFrame",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":178,
+              "y":159},
+            "size":{
+              "width":467,
+              "height":830}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"beffbe2da7b540e19ab895b2fc2c1083",
+          "label":"",
+          "type":"verticalLine",
+          "styleType":"verticalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":173,
+              "y":158},
+            "size":{
+              "width":10,
+              "height":831}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/iphone_plus/u5_line.png"}},
+{
+          "id":"942d7b52bd264418b52f61787a02815d",
+          "label":"",
+          "type":"verticalLine",
+          "styleType":"verticalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":639,
+              "y":158},
+            "size":{
+              "width":10,
+              "height":831}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/iphone_plus/u5_line.png"}},
+{
+          "id":"f9bf5bbdd4574c96baf77a0e5b195aaa",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":176,
+              "y":983},
+            "size":{
+              "width":469,
+              "height":10}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/iphone_plus/u7_line.png"}},
+{
+          "id":"cd2f9eca6e9041edbdf86ac454f2eb28",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":176,
+              "y":154},
+            "size":{
+              "width":469,
+              "height":10}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/iphone_plus/u7_line.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "a8f2c09a668e47feb14804c6cdd0b60f":{
+      "scriptId":"u0"},
+    "096057de972944bf9a4993aa9dc199a0":{
+      "scriptId":"u1"},
+    "6c15fd493187430c89898877c094c537":{
+      "scriptId":"u2"},
+    "f6d6823313764f83ba2221c657249675":{
+      "scriptId":"u3"},
+    "7810b1692e604f02a08eb9dac11283bb":{
+      "scriptId":"u4"},
+    "beffbe2da7b540e19ab895b2fc2c1083":{
+      "scriptId":"u5"},
+    "942d7b52bd264418b52f61787a02815d":{
+      "scriptId":"u6"},
+    "f9bf5bbdd4574c96baf77a0e5b195aaa":{
+      "scriptId":"u7"},
+    "cd2f9eca6e9041edbdf86ac454f2eb28":{
+      "scriptId":"u8"}}});
